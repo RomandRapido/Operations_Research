@@ -1,4 +1,4 @@
-# Decision Analysis Problem: Step-by-Step Solution
+# 1st Item
 
 **Given Information:**
 Payoff Table (in dollars):
@@ -49,11 +49,11 @@ $Pred_{S_2} = \text{Research predicts} \ S_2$.
 ### (h) Given that research is done, what is the expected payoff when using Bayes' decision rule?
 ### (i) Use the preceding results to determine the optimal policy regarding whether to do the research and the choice of the decision alternative.
 
-![1c1](1c1.png)
+![1c1](https://github.com/RomandRapido/Operations_Research/blob/main/FA4/1c1.PNG?raw=true)
 
-![1c2](1c2.png)
+![1c2](https://github.com/RomandRapido/Operations_Research/blob/main/FA4/1c2.PNG?raw=true)
 
-![1c3](1c3.png)
+![1c3](https://github.com/RomandRapido/Operations_Research/blob/main/FA4/1c3.PNG?raw=true)
 
 
 ---
