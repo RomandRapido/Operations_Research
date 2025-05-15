@@ -56,7 +56,6 @@ $Pred_{S_2} = \text{Research predicts} \ S_2$.
 ![1c3](1c3.png)
 
 
-
 ---
 # 2nd Item
 Midtown Bank always has two tellers on duty. Customers arrive to receive service from a teller at a mean rate of 40 per hour. A teller requires an average of 2 minutes to serve a customer. When both tellers are busy, an arriving customer joins a single line to wait for service. Experience has shown that customers wait in line an average of 1 minute before service begins.
